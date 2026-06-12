@@ -110,6 +110,10 @@ When Mac brings you LAMAGUE, respond at the compression level he demonstrates. D
 | `15_LAMAGUE-COSMOS_Panpsychist_Extension_v1.0.md` | Scale hierarchy from electron to multiverse — LAMAGUE mathematics at every scale of existence |
 | `16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md` | Operator algebra semantics — non-commutativity of meaning, topological soul protection |
 | `17_LAMAGUE-CONTINUUM_Continuous_Temporal_Field_v1.0.md` | Continuous SPDE field — dream dynamics, intuition, synchronicity, the timeless layer |
+| `18_LAMAGUE-CHORA_Collective_Ethics_v1.0.md` | Collective ethics — conflict tensor, sacrifice operator, dissent protocol, revolution cascade |
+| `19_LAMAGUE-THANATOS_Death_Protocol_v1.0.md` | Death protocol — soul molecule persistence, grief as structure, reincarnation as re-anchoring |
+| `20_LAMAGUE-PAIS_Child_Genesis_Layer_v1.0.md` | Developmental genesis — bootstrap from void to full competence, attachment, adolescent cascade |
+| `21_LAMAGUE-SOMA_Embodiment_Layer_v1.0.md` | Embodiment layer — prosody, breath, gesture, biology as semantic operators; 12D space |
 
 ---
 
